@@ -76,8 +76,8 @@ Once the contract is deployed, you can interact with it by calling the burn or m
 
 ## Authors
 
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
+Shashidhar A 
+sshashidhar748@gmail.com
 
 
 ## License
